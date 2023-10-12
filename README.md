@@ -1,5 +1,7 @@
 # HacktoberFest 2023 Machine Learning Project 
-![image](https://github.com/shriyansh7/Hacktoberfest_23/assets/119931302/12f68f51-4727-432d-8017-0e81894d0511)
+![image](https://github.com/shriyansh7/Hacktoberfest-ML-Disease-Models/assets/95204564/8e7fec95-e3d2-46b6-b20b-41c7325cf21f)
+
+
 
 
 ## This Project Is Perfect For Your First Pull Request
